@@ -1,14 +1,12 @@
 <div align="center">
-  <h1 style="font-size: 3em; color: #e74c3c; text-align: center; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Camilo</h1>
-  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">I'm a Software Engineer/developer. Please take a look at my <a href="https://cquiroga.github.io/Portfolio/ES/" target="_blank">online resume</a> for more information.</h4>
+  <img src="https://raw.githubusercontent.com/CQuiroga/Portfolio/refs/heads/main/ES/images/logo.png" alt="Logo" title="Logo" height="160"/>
+  <!--<h3 style="font-size: 3em; color: #e74c3c; text-align: center; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Camilo</h3>-->
+  <h4 style="font-size: 1.5em; color: #2980b9; text-align: center; margin-top: -10px;">Hello, I'm Camilo, I'm a Software Engineer/developer. 
+  </h4>
+   <h5> Please take a look at my <a href="https://cquiroga.github.io/Portfolio/ES/" target="_blank">online resume</a> for more information.</h5>
 </div>
 
 <hr style="border: 1px solid #3498db; margin: 20px 0;">
-<div align="center">
-  <a href="https://cquiroga.github.io/Portfolio/ES/">
-    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
-  </a>
-</div>
 
 ## 🛠  Technologies and tools
 
@@ -46,6 +44,12 @@
 
 <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" title="React Native" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+
+<div align="center">
+  <a href="https://cquiroga.github.io/Portfolio/ES/">
+    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </a>
+</div>
 
 ## About Me
 
